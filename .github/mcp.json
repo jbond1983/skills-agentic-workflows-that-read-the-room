@@ -15,7 +15,8 @@
         "inspect",
         "status",
         "audit-diff",
-        "work-queue"
+        "work-queue",
+        "health"
       ]
     }
   }
