@@ -12,6 +12,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit:
   web-fetch:
@@ -31,6 +32,9 @@ Use these sources:
 - `notes/mona-notes.md`
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
+
+Use `web-fetch` to read https://awesome-copilot.github.com/workflows/.
 
 Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context when content comes
